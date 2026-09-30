@@ -14,7 +14,7 @@ body,
 .landingPageContainer{
   width: 100vw;
   height: 100vh;
-  background: url("background.png");
+  background: url("/background.png");
   /* /frontend/public/background.png is not used instaed background.png is used */
   background-repeat: no-repeat;
   background-size: cover;
